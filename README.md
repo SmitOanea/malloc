@@ -1,2 +1,2 @@
 # malloc
-Memory Allocator for C
+A library which provides functions similar to malloc, calloc, realloc, free.
